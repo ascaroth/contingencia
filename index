@@ -1,0 +1,81 @@
+<!DOCTYPE HTML>
+<!-- pagina creada para el bien y la agilidad de los asesores todos los derechos reservados copyrigth PandaGaming -->
+<html>
+	<head>
+		<title>Links de ayuda</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="left-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper" class="wrapper">
+					<div id="header">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1>Home</h1>
+							</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li><a href="index.html">Home</a></li>
+									<li><a href="page1.html">Notas De Ayuda</a></li>
+									<li><a href="page2.html">Regionales</a></li>
+									<li><a href="page3.html">VDNs</a></li>
+									<li><a href="page4.html">Lineas</a></li>
+								</ul>
+							</nav>
+
+					</div>
+				</div>
+<div class="wrapper style2">
+					<div class="title">PandaGaming</div>
+					<div id="main" class="container">
+							<!-- notas -->
+										<center>
+											<table style="border-color:blue">
+								<a href="http://172.18.10.156/iwaycc/login" target="_blank"><input type="submit" value="C C A A"></a>&nbsp
+								<a href="http://agendamiento.cable.net.co:8080" target="_white"><input type="submit" value="gerencia"></a>&nbsp
+								<a href="http://172.18.10.134/diagnosticador/residencial/" target="_blank"><input type="submit" value="Diagnosticador"></a>&nbsp
+								<a href="https://www.clarovideo.com/colombia/homeuser" target="_blank"><input type="submit" value="ClaroVideo"></a>&nbsp
+								<a href="http://172.18.10.142:8080/mascara/logon.jsf" target="_blank"><input type="submit" value="Mascara"></a>&nbsp
+								<p></p>
+								<a href="https://www.intercontactcenter.net/FACE_ICC/Index.asp" target="_blank"><input type="submit" value="Intranet"></a>&nbsp
+								<a href="http://172.18.10.167/1click/marcaciones_call/#" target="_blank"><input type="submit" value="Marcaciones"></a>&nbsp
+								<a href="http://172.18.10.103/gelite/logueo.php" target="_blank"><input type="submit" value="Backelite"></a>&nbsp
+								<a href="https://comunidadvirtual.claro.com.co/www/lms/Biblioteca/Documentos/others/M_Servicio/Residencial/Boletines/Comunicados%20-%202016/c448/index.html" target="_blank"><input type="submit" value="LineUp"></a>&nbsp
+								<a href="http://www.claro.com.co/personas/soporte/tiendas/" target="_blank"><input type="submit" value="Tiendas"></a>&nbsp
+								<p></p>
+								<a href="http://190.84.51.204/CCAA/CR_REF.htm" target="_blank"><input type="submit" value="Codigos Ctr"></a>&nbsp
+								<a href="http://www.intercontactcenter.net/INGRESO/Index.asp" target="_blank"><input type="submit" value="Logeo inc"></a>&nbsp
+								<a href="http://comunidadvirtual.claro.com.co/Login/tabid/74/Default.aspx?returnurl=%2f" target="_blank"><input type="submit" value="Comunidad"></a>&nbsp
+								<a href="http://www.intercontactcenter.net/Socrates/Index.asp" target="_blank"><input type="submit" value="Socrates"></a>&nbsp
+              						  	<a href="http://facturasclaro.paradigma.com.co/ebpTelmex/Login.aspx" target="_blank"><input type="submit" value="Facturacion"></a>&nbsp
+               							 <p></p>
+											</table>
+										</center>
+								</article>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--footer-->
+					<center><footer id="footer" style="display: block;">
+						<p class="copyright">© Copyrigth.<a href="https://twitter.com/_GiantPanda_?s=09">(Programming)</a>.</p>
+					</footer></center>
+		<!-- Scripts -->
+
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
